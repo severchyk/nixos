@@ -283,7 +283,6 @@ in
     # lazyssh
     mc
     neofetch
-    # slacky
     terminator
     tree
     unzip
@@ -295,7 +294,6 @@ in
     wget
   ] ++ (with pkgs.unstable; [
     lazyssh
-    slacky
   ]);
 
   # Enable automatic upgrades.
