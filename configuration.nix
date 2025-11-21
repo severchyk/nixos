@@ -154,7 +154,7 @@ in
     bat
     chromium
     fzf
-    ghostty
+    # ghostty
     git
     htop
     ipfetch
