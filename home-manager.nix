@@ -130,6 +130,7 @@ in
 
       profiles.default = {
         extensions = with pkgs.vscode-extensions; [
+          jnoortheen.nix-ide
           # ms-vscode.remote-explorer
           ms-vscode-remote.remote-ssh
           ms-vscode-remote.remote-ssh-edit

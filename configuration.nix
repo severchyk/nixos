@@ -169,6 +169,7 @@ in
     # lazyssh
     mc
     neofetch
+    nixfmt-rfc-style
     terminator
     tree
     unzip
