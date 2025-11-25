@@ -146,7 +146,9 @@ in
           "files.trimFinalNewlines" = true;
           "files.trimTrailingWhitespace" = true;
           "redhat.telemetry.enabled" = false;
+          "security.workspace.trust.untrustedFiles" = "open";
           "terminal.integrated.fontFamily" = "Roboto Mono";
+          "update.mode" = "manual";
         };
       };
     };
